@@ -1,16 +1,16 @@
-## Hi there 👋
+![0001GIF](https://github.com/kHyeoni/kHyeoni/assets/140488907/d7701293-40b7-4ffb-846b-0939e9e8e51d)
+# HI I'M JUNIOR DEVELOPER
+* NAME : 이강현
+* BIRTH : 2000.03.19
+* COMPANY : AGILE
 
-<!--
-**kHyeoni/kHyeoni** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## BACKEND
 
-Here are some ideas to get you started:
+### SKILL
+* JAVA
+* SPRING
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## FRONTEND
+### SKILL
+* HTML/CSS/JS
+* ~~REACT~~
